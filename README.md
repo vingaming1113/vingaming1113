@@ -9,7 +9,6 @@ this readme is still wip it sucks because i made it on github mobile
 
 
 ![vingaming1113's Stats](https://github-readme-stats.vercel.app/api?username=vingaming1113&theme=nord&show_icons=true&hide_border=false&count_private=true)
-![vingaming1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vingaming1113&theme=nord&hide_border=false)
 ![vingaming1113's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vingaming1113&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 
