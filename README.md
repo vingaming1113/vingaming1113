@@ -1,14 +1,16 @@
-hello! I am vingaming1113, you can find my about me on https://vin.nekoweb.org.
+ hello! I am vingaming1113, you can find my about me on https://vin.nekoweb.org.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/909832870862913536?bg=74c7ec&theme=light)](https://discord.com/users/909832870862913536)
 
 
 
+this readme is still wip it sucks because i made it on github mobile
 
 
 
-
-![iptv](https://github-readme-stats.vercel.app/api/top-langs/?username=vingaming1113&theme=blue-green)
+![vingaming1113's Stats](https://github-readme-stats.vercel.app/api?username=vingaming1113&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![vingaming1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vingaming1113&theme=nord&hide_border=false)
+![vingaming1113's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vingaming1113&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 
 
