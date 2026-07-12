@@ -5,13 +5,7 @@
 I'm vingaming1113!
 
 
-[![Skillicons](https://skillicons.dev/icons?i=js,html,css,bun,java,git,github,linux)](https://skillicons.dev)
-
-
-
-
-Github stats:
-
+[![Skillicons](https://skillicons.dev/icons?i=js,html,css,bun,git,java,github,linux)](https://skillicons.dev)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true)
 
