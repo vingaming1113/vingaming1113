@@ -1,6 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d6a4f&height=180&section=header&text=vingaming1113&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I'm vingaming1113!
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,js,css,git,github,bun,java,linux&perline=4"/>
