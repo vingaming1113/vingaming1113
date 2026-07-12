@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-**vingaming1113/vingaming1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm vingaming1113!
 
 <p align="center">
-[![Skillicons](https://skillicons.dev/icons?i=js,html,css,git,bun,java,github,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,js,css,git,github,bun,java,linux&perline=4"/>
 </p>
 <p align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true)
+<img src="https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true"/>
 </p>
 <p align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vingaming1113&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=vingaming1113&langs_count=6)
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=vingaming1113&langs_count=6"/>
 </p>
+
 
 <!--
 **vingaming1113/vingaming1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
