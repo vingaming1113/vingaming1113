@@ -7,10 +7,10 @@
 <img src="https://skillicons.dev/icons?i=html,js,css,git,github,bun,java,linux&perline=4"/>
 </p>
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true"/>
+<img  src="https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true"/>
 </p>
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=vingaming1113&langs_count=4"/>
+<img  src="https://github-stats-extended.vercel.app/api/top-langs?username=vingaming1113&langs_count=4"/>
 </p>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vingaming1113&short_numbers=true&card_width=564" alt="GitHub Streak" /></a>
