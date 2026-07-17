@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,js,css,git,github,bun,java,linux&perline=4"/>
+<img src="https://skillicons.dev/icons?i=html,js,css,git,github,bun,java,linux&perline=6"/>
 </p>
 <p align="center">
 <img  src="https://github-stats-extended.vercel.app/api?username=vingaming1113&show_icons=true&include_all_commits=true"/>
